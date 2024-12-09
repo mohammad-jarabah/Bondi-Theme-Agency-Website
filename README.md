@@ -6,27 +6,14 @@ A creative, colorful, and responsive landing page for small agency, built by con
 ![design-view](./Images/preview.png)
 
 ## Live Demo
-👁 [Click here](https://mohjarabahh.github.io/bondi-website) to check out the live demo!
+[Click here](https://mohjarabahh.github.io/bondi-website) to check out the live demo!
 
 ## Technologies
 * HTML
-* CSS (with BEM Methodology)
+* CSS
 * [Google Fonts](https://fonts.google.com)
 * [Font Awesome](https://fontawesome.com)
 * [GitHub Pages](https://pages.github.com)
-
-## Features
-* ⭐ Single page design
-* 👓 Elegant favicon
-* 🤖 Responsive design on all devices
-* ⚡ Fast and lightweight design
-* 🍫 Responsive navigation bar with custom designs for desktops & mobiles
-* 🌱 Smooth scroll for navigation bar links
-* 🌐 Sections for 'header', 'services', 'portfolio', 'about us', 'team members', 'clients', 'advertise', 'blog', 'newsletter', and 'footer'
-* 🌠 Simple animation when hovering on the images of the 'portfolio' section
-* 🌍 Footer section with 4 columns of content, links, and copyrights
-* 🎨 SVG logo & icons (except the 'clients' section)
-* ✨ And more!
 
 ## Credits
 * PSD Template is from [Graphberry](https://www.graphberry.com)
